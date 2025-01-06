@@ -1,4 +1,4 @@
-# google_anlytics_API
+# google_analytics_API
 My own project in which I acquire, process and explore data obtained from the Google Analytics API.
 The project involves notebooks:
 1) Download website traffic data from Google Analytics API
